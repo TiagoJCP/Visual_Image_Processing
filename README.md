@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+
 ## Description
 
 ### **Computer Vision** é um domínio da **inteligência artificial** que permite a computadores **interpretar e tomar decisões** com base em **dados visuais**, mesmo em **ambientes dinâmicos**.  🚀
@@ -44,6 +45,8 @@
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Third-party Licenses
+
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 - OpenCV: Apache 2.0 License
 
